@@ -1,6 +1,4 @@
 
-
-````markdown
 # 🔐 Secure Messaging CLI  
 
 > End-to-End Encrypted Messaging in Python — hybrid **RSA + AES** with file/message encryption and expiring messages.  
